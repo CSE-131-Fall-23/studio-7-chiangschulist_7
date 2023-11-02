@@ -3,7 +3,7 @@ package studio7;
 public class Die {
 	
 	
-	public int n;
+	private int n;
 	
 	public Die() {
 		n = 0;
